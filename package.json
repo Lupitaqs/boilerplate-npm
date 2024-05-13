@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.2.0",
 	"description": "A project that does something awesome",
 	"main": "server.js",
 	"scripts": {
